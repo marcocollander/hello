@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "engines": { "node": ">=10.0.x" },
   "keywords": [],
   "author": "Zenon Marek Raubuć <m.raubuc@wp.pl> (https://raubuc.net)",
   "license": "ISC"
